@@ -15,8 +15,8 @@
         <td>测试基础</td>
         <td>
           <ul>
-          	<li><a href="https://blog.csdn.net/be_racle/article/details/126956354)">软件测试基础理论</a></li>
-          	<li><a href="https://blog.csdn.net/be_racle/article/details/126856909)">黑盒测试方法小结</a></li>
+          	<li><a href="https://blog.csdn.net/be_racle/article/details/126956354">软件测试基础理论</a></li>
+          	<li><a href="https://blog.csdn.net/be_racle/article/details/126856909">黑盒测试方法小结</a></li>
           </ul>
         </td>
     </tr>
